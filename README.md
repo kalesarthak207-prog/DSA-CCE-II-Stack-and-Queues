@@ -6,7 +6,6 @@ Name: Sarthak Kale
 Class: S.Y. B.Tech
 Branch: Electronics and Computer Engineering
 Subject: Data Structures and Algorithms
-Language: C++
 
 Project Objective
 
@@ -130,3 +129,6 @@ Sarthak Kale
 
 S.Y. B.Tech
 Electronics and Computer Engineering
+
+
+
